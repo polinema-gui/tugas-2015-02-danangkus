@@ -1,0 +1,10 @@
+c:\users\danang\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe.config
+c:\users\danang\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+c:\users\danang\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+c:\users\danang\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+c:\users\danang\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Form1.resources
+c:\users\danang\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Resources.resources
+c:\users\danang\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+c:\users\danang\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+c:\users\danang\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.xml
+c:\users\danang\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
